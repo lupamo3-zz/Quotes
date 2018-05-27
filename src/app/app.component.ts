@@ -8,4 +8,10 @@ import {Quotes} from './quotes'
 })
 export class AppComponent {
   title = 'app';
+
+  constructor() {}
+
+  ngOnInit() {
+
+  }
 }
