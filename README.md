@@ -6,11 +6,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-#Quotes
-#DESCRIPTION:
+# Quotes
+
+## DESCRIPTION:
 Quotes is an Angular5 built web-based application that allows us to post, view and to rate quotes posted on the web. We can up-vote quotes if we feel and enjoy the message and down-vote them if we don't relate with the message. Alternatively you can delete quotes.
 
-#Project Demonstration:
+## Project Demonstration:
 Type your user-name, Type the date of the quote, type the quote details and submit. After doing that the quote and the aforementioned features appear on it. You can then upvote, down-vote or delete the mentioned quote.
 
 #Set-up/Installation Requirements.
