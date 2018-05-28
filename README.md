@@ -14,7 +14,7 @@ Quotes is an Angular5 built web-based application that allows us to post, view a
 ## Project Demonstration:
 Type your user-name, Type the date of the quote, type the quote details and submit. After doing that the quote and the aforementioned features appear on it. You can then upvote, down-vote or delete the mentioned quote.
 
-#Set-up/Installation Requirements.
+## Set-up/Installation Requirements.
 Run the link on your browser. The github published link.
 Alternatively
 * Copy repository url
@@ -22,7 +22,7 @@ Alternatively
 * On the terminal type cd lupamo3.github.io
 * Run git serve --open.
 
-#Known Bugs.
+## Known Bugs.
 There are currently no bugs, incase of any bugs be free to inform me.
 
 #Technologies Used.
