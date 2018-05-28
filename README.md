@@ -6,22 +6,30 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+#Quotes
+#DESCRIPTION:
+Quotes is an Angular5 built web-based application that allows us to post, view and to rate quotes posted on the web. We can up-vote quotes if we feel and enjoy the message and down-vote them if we don't relate with the message. Alternatively you can delete quotes.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+#Project Demonstration:
+Type your user-name, Type the date of the quote, type the quote details and submit. After doing that the quote and the aforementioned features appear on it. You can then upvote, down-vote or delete the mentioned quote.
 
-## Build
+#Set-up/Installation Requirements.
+Run the link on your browser. The github published link.
+Alternatively
+* Copy repository url
+* On the terminal type git clone
+* On the terminal type cd lupamo3.github.io
+* Run git serve --open.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+#Known Bugs.
+There are currently no bugs, incase of any bugs be free to inform me.
 
-## Running unit tests
+#Technologies Used.
+*HTML
+*CSS
+*ANGULAR CLI
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
+#License.
+MIT (c) 2018. Quotes. 
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
