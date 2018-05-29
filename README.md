@@ -26,9 +26,9 @@ Alternatively
 There are currently no bugs, incase of any bugs be free to inform me.
 
 ## Technologies Used.
-*HTML
-*CSS
-*ANGULAR CLI
+* HTML
+* CSS
+* ANGULAR CLI
 
 # License.
 **MIT** (c) 2018. Quotes. 
